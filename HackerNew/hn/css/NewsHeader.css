@@ -22,3 +22,16 @@
   font-weight: bold;
   margin-left: 4px;
 }
+
+.newsHeader-nav {
+  flex-grow: 1;
+  margin-left: 10px;
+}
+
+.newsHeader-navLink:not(:first-child)::before {
+  content: ' | ';
+}
+
+.newsHeader-login {
+  margin-right: 5px;
+}
