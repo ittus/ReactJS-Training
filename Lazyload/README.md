@@ -1,6 +1,5 @@
-Purpose: Study **refs**, **getDefailtProps()**
-Result: 
-![Alt text](./default.png?raw=true "Demo")
+Purpose: Lazy load image on demand
+
 
 ### Node
 
